@@ -10,3 +10,16 @@ body {
     text-align:center;font-size: 40px;color:rgb(226, 43, 61);
   }
   
+  .border {
+    display: inline-block;
+    width: 70px;
+    height: 70px;
+    margin: 6px;
+  }
+
+
+  .p-border  {
+    border: 2px solid powderblue;
+    margin: 5px;
+    color: rgb(49, 94, 240);
+  }

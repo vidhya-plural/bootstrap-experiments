@@ -9,7 +9,7 @@ html,body{
 }body{
     padding-top: 3rem;
     padding-bottom: 3rem;
-    background-image: url('/Desktop/Academy/bootstrap-experiments/images/Home_background_image.jpeg');
+    background-image: url('/Desktop/Academy/bootstrap-experiments/images/background.webp');
     background-repeat: repeat;
 }
 
@@ -32,3 +32,5 @@ h1{font-style: bold;
     margin-right: auto;
     width: 80%;
   }
+
+  
